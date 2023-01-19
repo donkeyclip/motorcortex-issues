@@ -1,5 +1,5 @@
 # motorcortex-issues
-MotorCortex issues only
+Please read the follow before you file a report in our [issue tracker](https://github.com/donkeyclip/motorcortex-issues/issues)
 
 Remember, an issue is not the place to ask questions. You can use [Stack Overflow](http://stackoverflow.com/questions/tagged/motorcortex) for that.
 
